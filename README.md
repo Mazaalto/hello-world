@@ -1,5 +1,5 @@
 # hello-world
-Ensimmäinen repository
+Ensimmäinen repository eli varasto
 
 Hi hackernation!
 
